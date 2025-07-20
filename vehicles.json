@@ -1,0 +1,98 @@
+[
+    {
+        "vehicle_id": "101",
+        "brand": "honda",
+        "model": "2020",
+        "price": 1000,
+        "is_booked": false,
+        "type": "Car"
+    },
+    {
+        "vehicle_id": "102",
+        "brand": "yaris",
+        "model": "2021",
+        "price": 2100,
+        "is_booked": true,
+        "type": "Car"
+    },
+    {
+        "vehicle_id": "103",
+        "brand": "yaris",
+        "model": "2022",
+        "price": 2100,
+        "is_booked": true,
+        "type": "Car"
+    },
+    {
+        "vehicle_id": "104",
+        "brand": "mira",
+        "model": "2022",
+        "price": 2100,
+        "is_booked": false,
+        "type": "Car"
+    },
+    {
+        "vehicle_id": "201",
+        "brand": "honda",
+        "model": "2021",
+        "price": 20000,
+        "is_booked": false,
+        "type": "Truck"
+    },
+    {
+        "vehicle_id": "202",
+        "brand": "honda",
+        "model": "2022",
+        "price": 20000,
+        "is_booked": false,
+        "type": "Truck"
+    },
+    {
+        "vehicle_id": "203",
+        "brand": "honda",
+        "model": "2023",
+        "price": 20000,
+        "is_booked": true,
+        "type": "Truck"
+    },
+    {
+        "vehicle_id": "301",
+        "brand": "honda",
+        "model": "2023",
+        "price": 500,
+        "is_booked": true,
+        "type": "Bike"
+    },
+    {
+        "vehicle_id": "302",
+        "brand": "honda",
+        "model": "2024",
+        "price": 800,
+        "is_booked": false,
+        "type": "Bike"
+    },
+    {
+        "vehicle_id": "303",
+        "brand": "honda",
+        "model": "2025",
+        "price": 800,
+        "is_booked": true,
+        "type": "Bike"
+    },
+    {
+        "vehicle_id": "205",
+        "brand": "mira",
+        "model": "2022",
+        "price": 1500,
+        "is_booked": true,
+        "type": "Car"
+    },
+    {
+        "vehicle_id": "301",
+        "brand": "HUNDAI shehzor",
+        "model": "2023",
+        "price": 10000,
+        "is_booked": false,
+        "type": "Truck"
+    }
+]

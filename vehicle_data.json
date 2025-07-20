@@ -1,0 +1,45 @@
+[
+    {
+        "ID": "1122",
+        "Model": "2025",
+        "Brand": "civic",
+        "Rent": 1055,
+        "Available": false,
+        "type": "Car"
+    },
+    {
+        "ID": "1123",
+        "Model": "2024",
+        "Brand": "Honda",
+        "Rent": 1000,
+        "Available": false,
+        "type": "Car"
+    },
+    {
+        "ID": "2221",
+        "Model": "2024",
+        "Brand": "Honda",
+        "Rent": 5000,
+        "Available": true,
+        "Capacity (tons)": 2,
+        "type": "Truck"
+    },
+    {
+        "ID": "3331",
+        "Model": "2024",
+        "Brand": "Honda",
+        "Rent": 500,
+        "Available": true,
+        "CC": 70,
+        "type": "Bike"
+    },
+    {
+        "ID": "3332",
+        "Model": "2024",
+        "Brand": "Honda",
+        "Rent": 800,
+        "Available": true,
+        "CC": 78,
+        "type": "Bike"
+    }
+]
